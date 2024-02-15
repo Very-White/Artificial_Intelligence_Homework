@@ -1,0 +1,1 @@
+cities_position的每一行依次是城市编号，x坐标和y坐标
